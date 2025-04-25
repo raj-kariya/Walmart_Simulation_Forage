@@ -54,7 +54,7 @@ This method will have different behavior depending on the currently configured m
 There is no need to get into implementation specifics, keep things abstract and high level. For example, you need only specify connect, insert, and validate methods for each database, there is no need to specify how those methods go about performing their verbs. The point of this task is to think about how code is structured. 
 
 ### *My Solution:*
-<img src = "./Task_2_SoftwareArchitecture.svg">
+<img src = "./Task2_UML/Task2_UML.png">
 
 <br/>
 
