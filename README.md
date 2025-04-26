@@ -89,7 +89,7 @@ Your task is to draft an ERD for an appropriately normalized relational database
     - A shipment is recorded as an origin, a destination, and a collection of products, each with an associated quantity.
 
 ### *My Solution:*
-<img src = "./Task3_er/task3_er.png">
+<img src = "./Task3_ER/task3_er.png">
 
 <br/>
 
